@@ -39,7 +39,7 @@ function playSong(song) {
   cover.setAttribute("src", song.cover);
   name.innerText = song.name;
   artist.innerText = song.artist;
-  audio.setAttribute("src", song.audio);
+  audio.setAttribute("src", "https://coolstuff.website/stream/postrock.mp3");
   playStatus = false;
   playPause();
 }
