@@ -8,7 +8,10 @@
 body {
   color: #adcaf2;
   font-family: "Open Sans", sans-serif;
-  background-color: #13171e;
+  background: url("https://www.pixelstalk.net/wp-content/uploads/images7/Happy-New-Year-2023-Wallpaper-Desktop.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
